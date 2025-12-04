@@ -4,7 +4,7 @@ Project from city university of lonon, atempting to visulaise data in a creative
 Code is to be run in the IDE Processing
 Can be downloded at https://processing.org/download
 
-Data being visullised is spotify music history, which was extrapolated into the different emotions each song has and then corilating that to the weather on that day.
+Data being visullised is spotify music history, which was extrapolated into the different emotions each song has and then corilating that to the weather on that day. The balls can be clicked and draged arounf and will bounce off of eachother and the walls
 
 Each line in the cirlcles is an induvidual song and the size of each circle corilates to the amount of songs for that weather
 
